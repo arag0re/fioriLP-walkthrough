@@ -37,7 +37,6 @@ sap.ui.define(
                var modelRecipient = this.getView()
                   .getModel()
                   .getProperty('/recipient/name')
-
                var modelMsg = i18nBundle.getText('helloMsg', [modelRecipient])
                MessageToast.show(modelMsg)
                //alert('Hello World')
