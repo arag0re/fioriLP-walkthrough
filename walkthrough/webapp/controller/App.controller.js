@@ -17,19 +17,7 @@ sap.ui.define(
       return Controller.extend(
          'de.icontec.antonstadie.walkthrough.controller.App',
          {
-            onInit: function () {
-               var myData = {
-                  recipient: {
-                     name: 'World',
-                  },
-               }
-               var myModel = new JSONModel(myData)
-               this.getView().setModel(myModel)
-               var i18nModel = new ResourceModel({
-                  bundleName: 'de.icontec.antonstadie.walkthrough.i18n.i18n',
-               })
-               this.getView().setModel(i18nModel, 'i18n')
-            },
+            onInit: function () {},
             onShowHello: function () {
                var i18nBundle = this.getView()
                   .getModel('i18n')
