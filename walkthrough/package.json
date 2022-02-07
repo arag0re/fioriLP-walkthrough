@@ -1,7 +1,7 @@
 {
    "name": "walkthrough",
    "version": "0.0.1",
-   "author": "astadie",
+   "author": "astadie@icontec.de",
    "private": true,
    "description": "a simple tutorial app to get used to the SAPUI5 framework",
    "keywords": [
