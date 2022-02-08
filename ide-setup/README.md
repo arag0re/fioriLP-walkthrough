@@ -88,3 +88,4 @@ open up a new Terminal in VSCode then run:
 
 press F1 again in VSCode or fn + F1 on Laptops
 open up the Fiori Application Generator and generate a new App like the following:
+![selectFreestyleInDropdown](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectFreestyleInDropdown.png 'Application Wizard first view')
