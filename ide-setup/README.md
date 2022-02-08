@@ -53,7 +53,7 @@ on Linux:
 
 open up visual studio code
 
-![openVSCode](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/OpenVscode.png)
+![openVSCode](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/openVscode.png)
 
 click on the right side on the Tetris like looking graphic
 
