@@ -112,6 +112,23 @@ open up a new Terminal in VSCode then run:
 
 ![setApplicationNamespace](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/setApplicationNamespace.png 'set the application namespace and rename the project as u like')
 
-### now it will install and generate the project. After completion it'll look something like this:
+#### now it will install and generate the project. After completion it'll look something like this:
 
 ![applicationInfo](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/applicationInfo.png 'application info page after project is generated successfully')
+
+#### Now you are ready to run the app by:
+
+going into the root folder of the generated project
+
+```
+cd </name/of/generated/project>
+```
+
+then run
+
+```
+npm run start-noflp
+```
+
+it should look like below while starting:
+![launchedAppFromTerminal](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/launchedAppFromTerminal.png 'launched project with npm run start-noflp')
