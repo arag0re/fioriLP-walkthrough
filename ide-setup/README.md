@@ -49,7 +49,7 @@ on Windows:
 on Linux:
 `sudo snap install code --classic`
 
-## Start Vscode
+## Start Vscode and Install extensions
 
 open up visual studio code
 
@@ -70,3 +70,21 @@ do the same for the rest of the List below:
 -  SAP Fiori Tools - Service Modeler
 -  SAPUI5 Extension
 -  UI5 i18n Check
+
+## Prepare Extensions
+
+Press F1 in VSCode (on Laptops fn + F1 most of the times)
+![openAppGen](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/openAppGen.png)
+
+Open up Fiori Application Generator for the first time so that the install is complete
+![installGenCompleted](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/installGenCompleted.png)
+
+## Install Yeoman
+
+open up a new Terminal in VSCode then run:
+`npm i -g yo`
+
+## Create first Fiori-App
+
+press F1 again in VSCode or fn + F1 on Laptops
+open up the Fiori Application Generator and generate a new App like the following:
