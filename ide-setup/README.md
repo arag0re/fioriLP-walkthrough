@@ -99,3 +99,7 @@ open up a new Terminal in VSCode then run:
 #### After u selected "SAPUI5 freestyle" u have three tamplates to choose from, we want an empty basic app for this guide so select "SAPUI5 Application" on the right and proceed by clicking the "next" button on the bottom
 
 ![selectSAPUI5Application](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectSAPUI5Application.png 'select SAPUI5 Application on the right')
+
+#### select "None" in the datasource dropdown menu, cause for this tutorial we won't need any SAP Datasource. Then proceed by clicking "next" at the bottom
+
+![selectNoneAsDatasource](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectNoneAsDatasource.png 'select "None" as datasource')
