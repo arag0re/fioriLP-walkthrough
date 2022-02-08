@@ -5,23 +5,10 @@
 	xmlns="sap.m"
 >
 	<Shell id="shell">
-		<App id="app">
+		<App class="myWalkthroughApp">
 			<pages>
-				<Page
-					id="page"
-					title="{i18n>title}"
-				>
-					<Button
-						text="{i18n>showHelloButtonText}"
-						press=".onShowHello"
-					/>
-					<Input
-						value="{/recipient/name}"
-						description="Hello {/recipient/name}"
-						valueLiveUpdate="true"
-						width="60%"
-					/>
-					<content/>
+				<Page title="{i18n>homePageTitle}">
+					<mvc:XMLView viewName="de.icontec.antonstadie.walkthrough.view.HelloPanel"/>
 				</Page>
 			</pages>
 		</App>

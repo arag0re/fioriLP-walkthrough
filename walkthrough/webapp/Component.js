@@ -1,16 +1,13 @@
 sap.ui.define(
    [
       'sap/ui/core/UIComponent',
-      'sap/ui/Device',
       'de/icontec/antonstadie/walkthrough/model/models',
       'sap/ui/model/json/JSONModel',
-      'sap/ui/model/resource/ResourceModel',
    ],
    /**
     * @param {typeof sap.ui.model.json.JSONModel} JSONModel
-    * @param {typeof sap.ui.model.resource.ResourceModel} ResourceModel
     */
-   function (UIComponent, Device, models, JSONModel, ResourceModel) {
+   function (UIComponent, models, JSONModel) {
       'use strict'
 
       return UIComponent.extend(
@@ -32,6 +29,11 @@ sap.ui.define(
              * @public
              * @override
              */
+
+            metadata: {
+               interfaces: ['sap.ui.core.IAsyncContentCreation'],
+               manifest: 'json',
+            },
             init: function () {
                // call the base component's init function
                UIComponent.prototype.init.apply(this, arguments)
@@ -43,10 +45,6 @@ sap.ui.define(
                }
                var myModel = new JSONModel(myData)
                this.setModel(myModel)
-               var i18nModel = new ResourceModel({
-                  bundleName: 'de.icontec.antonstadie.walkthrough.i18n.i18n',
-               })
-               this.setModel(i18nModel, 'i18n')
 
                // enable routing
                this.getRouter().initialize()

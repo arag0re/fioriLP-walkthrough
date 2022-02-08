@@ -1,1 +1,11 @@
 /* Enter your custom styles here */
+html[dir='ltr'] .myWalkthroughApp .myCustomButton.sapMBtn {
+   margin-right: 0.125rem;
+}
+html[dir='rtl'] .myWalkthroughApp .myCustomButton.sapMBtn {
+   margin-left: 0.125rem;
+}
+.myWalkthroughApp .myCustomText {
+   display: inline-block;
+   font-weight: bold;
+}
