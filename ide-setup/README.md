@@ -88,6 +88,6 @@ open up a new Terminal in VSCode then run:
 
 press F1 again in VSCode or fn + F1 on Laptops
 open up the Fiori Application Generator and generate a new App like the following:
-![openAppGen](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectFreestyleInDropdown.png 'open the fiori application generator')
+![openAppGen](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/openAppGen.png 'open the fiori application generator')
 then click it or press "ENTER" and you will get to the selection screen which kind of App u want to generate. there are several templates to download.
 ![selectFreestyleInDropdown](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectFreestyleInDropdown.png 'application wizard first view')
