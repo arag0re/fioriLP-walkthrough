@@ -61,7 +61,7 @@ click on the right side on the Tetris like looking graphic
 
 search for `Application Wizard` and install it
 
-![searchForExtensionsAndInstall](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/searchForExtensionsAndInstall.png 'install Application Wizard')
+![searchForExtensionsAndInstall](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/searchForExtensionsAndInstall.png 'install application wizard')
 
 do the same for the rest of the List below:
 
@@ -77,7 +77,7 @@ Press F1 in VSCode (on Laptops fn + F1 most of the times)
 ![openAppGen](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/openAppGen.png 'open app generator')
 
 Open up Fiori Application Generator for the first time so that the install is complete
-![installGenCompleted](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/installGenCompleted.png 'complete the installatiopn of the wizard')
+![installGenCompleted](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/installGenCompleted.png 'complete the installation of the wizard')
 
 ## Install Yeoman
 
@@ -88,4 +88,6 @@ open up a new Terminal in VSCode then run:
 
 press F1 again in VSCode or fn + F1 on Laptops
 open up the Fiori Application Generator and generate a new App like the following:
-![selectFreestyleInDropdown](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectFreestyleInDropdown.png 'Application Wizard first view')
+![openAppGen](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectFreestyleInDropdown.png 'open the fiori application generator')
+then click it or press "ENTER" and you will get to the selection screen which kind of App u want to generate. there are several templates to download.
+![selectFreestyleInDropdown](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectFreestyleInDropdown.png 'application wizard first view')
