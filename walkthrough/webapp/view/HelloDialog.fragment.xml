@@ -16,5 +16,12 @@
 			htmlText="Hello {/recipient/name}"
 			class="sapUiSmallMargin sapThemeHighlight-asColor myCustomText"
 		/>
+		<content>
+			<core:Icon
+				src="sap-icon://hello-world"
+				size="8rem"
+				class="sapUiMediumMargin"
+			/>
+		</content>
 	</Dialog>
 </core:FragmentDefinition>
