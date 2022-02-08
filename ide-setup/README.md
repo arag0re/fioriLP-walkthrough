@@ -53,15 +53,15 @@ on Linux:
 
 open up visual studio code
 
-![openVSCode](https://github.com/arag0re/fioriLP-walkthrough/Images/OpenVscode.png)
+![openVSCode](https://github.com/arag0re/fioriLP-walkthrough/images/OpenVscode.png)
 
 click on the right side on the Tetris like looking graphic
 
-![installAddons](https://github.com/arag0re/fioriLP-walkthrough/Images/installAddons.png)
+![installAddons](https://github.com/arag0re/fioriLP-walkthrough/images/installAddons.png)
 
 search for `Application Wizard` and install it
 
-![searchForAddonsAndInstall](https://github.com/arag0re/fioriLP-walkthrough/Images/installAddons.png)
+![searchForAddonsAndInstall](https://github.com/arag0re/fioriLP-walkthrough/images/searchForAddonsAndInstall.png)
 
 do the same for the rest of the List below:
 
