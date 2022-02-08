@@ -53,15 +53,15 @@ on Linux:
 
 open up visual studio code
 
-![openVSCode](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/openVscode.png)
+![openVSCode](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/openVscode.png, 'open up visual studio code')
 
 click on the right side on the Tetris like looking graphic
 
-![installAddons](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/installAddons.png)
+![installExtensions](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/installExtensions.png, 'install extensions')
 
 search for `Application Wizard` and install it
 
-![searchForAddonsAndInstall](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/searchForAddonsAndInstall.png)
+![searchForExtensionsAndInstall](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/searchForExtensionsAndInstall.png, 'install Application Wizard')
 
 do the same for the rest of the List below:
 
@@ -74,10 +74,10 @@ do the same for the rest of the List below:
 ## Prepare Extensions
 
 Press F1 in VSCode (on Laptops fn + F1 most of the times)
-![openAppGen](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/openAppGen.png)
+![openAppGen](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/openAppGen.png, 'open app generator')
 
 Open up Fiori Application Generator for the first time so that the install is complete
-![installGenCompleted](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/installGenCompleted.png)
+![installGenCompleted](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/installGenCompleted.png, 'complete the installatiopn of the wizard')
 
 ## Install Yeoman
 
