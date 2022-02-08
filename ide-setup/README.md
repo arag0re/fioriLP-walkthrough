@@ -103,3 +103,11 @@ open up a new Terminal in VSCode then run:
 #### select "None" in the datasource dropdown menu, cause for this tutorial we won't need any SAP Datasource. Then proceed by clicking "next" at the bottom
 
 ![selectNoneAsDatasource](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectNoneAsDatasource.png 'select "None" as datasource')
+
+#### rename the main View from "View1" to "App" then proceed by clicking "next" at the bottom
+
+![renameMainViewToApp](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/renameMainViewToApp.png 'rename the main view to "App"')
+
+#### Now we are on the last screen of the application wizard. here u can rename your project, set a title and define a namespace as well as some other stuff, but we don't need this right now. After setting all these Strings proceed by Clicking "next" at the bottom
+
+![setApplicationNamespace](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/setApplicationNamespace.png 'set the application namespace and rename the project as u like')
