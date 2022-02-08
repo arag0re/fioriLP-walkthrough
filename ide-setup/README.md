@@ -108,6 +108,10 @@ open up a new Terminal in VSCode then run:
 
 ![renameMainViewToApp](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/renameMainViewToApp.png 'rename the main view to "App"')
 
-#### Now we are on the last screen of the application wizard. here u can rename your project, set a title and define a namespace as well as some other stuff, but we don't need this right now. After setting all these Strings proceed by Clicking "next" at the bottom
+#### Now we are on the last screen of the application wizard. here u can rename your project, set a title and define a namespace as well as some other stuff, but we don't need this right now. After setting all these Strings proceed by Clicking "Finish" at the bottom
 
 ![setApplicationNamespace](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/setApplicationNamespace.png 'set the application namespace and rename the project as u like')
+
+### now it will install and generate the project. After completion it'll look something like this:
+
+![applicationInfo](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/applicationInfo.png 'application info page after project is generated successfully')
