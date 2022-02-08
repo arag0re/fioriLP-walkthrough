@@ -86,16 +86,16 @@ open up a new Terminal in VSCode then run:
 
 ## Create first Fiori-App
 
-### press F1 again in VSCode or fn + F1 on Laptops
+#### press F1 again in VSCode or fn + F1 on Laptops
 
-### open up the Fiori Application Generator and generate a new App like the following:
+#### open up the Fiori Application Generator and generate a new App like the following:
 
 ![openAppGen](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/openAppGen.png 'open the fiori application generator')
 
-### then click it or press "ENTER" and you will get to the selection screen which kind of App u want to generate. there are several templates to download. In the dropdown menu select "SAPUI5 freestyle".
+#### then click it or press "ENTER" and you will get to the selection screen which kind of App u want to generate. there are several templates to download. In the dropdown menu select "SAPUI5 freestyle".
 
 ![selectFreestyleInDropdown](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectFreestyleInDropdown.png 'application wizard first view')
 
-### After u selected "SAPUI5 freestyle" u have three tamplates to choose from, we want an empty basic app for this guide so select "SAPUI5 Application" on the right and proceed by clicking the "next" button on the bottom
+#### After u selected "SAPUI5 freestyle" u have three tamplates to choose from, we want an empty basic app for this guide so select "SAPUI5 Application" on the right and proceed by clicking the "next" button on the bottom
 
 ![selectSAPUI5Application](https://github.com/arag0re/fioriLP-walkthrough/blob/master/images/selectSAPUI5Application.png 'select SAPUI5 Application on the right')
