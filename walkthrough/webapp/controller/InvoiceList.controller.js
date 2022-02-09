@@ -34,6 +34,11 @@ sap.ui.define(
             onChangerOrderButtonPress: function () {
                this.byId('invoiceList')
             },
+
+            onPress: function (oEvent) {
+               var oRouter = this.getOwnerComponent().getRouter()
+               oRouter.navTo('detail')
+            },
          }
       )
    }

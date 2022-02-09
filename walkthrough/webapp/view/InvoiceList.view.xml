@@ -17,7 +17,7 @@
 	>
 		<headerToolbar>
 			<Toolbar>
-				<Title text="{i18n>incoiceListTitle}"/>
+				<Title text="{i18n>invoiceListTitle}"/>
 				<ToolbarSpacer/>
 				<Button
 					id="changeInvoiceOrderButton"
@@ -48,6 +48,8 @@
 				}"
 				numberUnit="{view>/currency}"
 				numberState="{= ${invoice>ExtendedPrice} > 50 ? 'Error' : 'Success' }"
+				type="Navigation"
+				press="onPress"
 			>
 				<firstStatus>
 					<ObjectStatus text="{
