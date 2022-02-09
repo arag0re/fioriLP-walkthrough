@@ -1,8 +1,22 @@
 <mvc:View
-	xmlns:mvc="sap.ui.core.mvc"
+	controllerName="de.icontec.antonstadie.walkthrough.controller.Detail"
 	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:wt="de.icontec.antonstadie.walkthrough.control"
 >
-	<Page title="{i18n>detailPageTitle}">
-		<ObjectHeader title="Invoice"/>
+	<Page
+		title="{i18n>detailPageTitle}"
+		showNavButton="true"
+		navButtonPress=".onNavBack"
+	>
+		<ObjectHeader
+			intro="{invoice>ShipperName}"
+			title="{invoice>ProductName}"
+		/>
+		<wt:ProductRating
+			id="rating"
+			class="sapUiSmallMarginBeginEnd"
+			change=".onRatingChange"
+		/>
 	</Page>
 </mvc:View>

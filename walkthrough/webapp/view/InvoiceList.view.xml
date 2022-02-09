@@ -19,13 +19,6 @@
 			<Toolbar>
 				<Title text="{i18n>invoiceListTitle}"/>
 				<ToolbarSpacer/>
-				<Button
-					id="changeInvoiceOrderButton"
-					icon="sap-icon://arrow-down"
-					class="sapUiSmallMarginEnd"
-					press=".onChangerOrderButtonPress"
-				/>
-				<ToolbarSpacer/>
 				<SearchField
 					width="50%"
 					search=".onFilterInvoices"
